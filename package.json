@@ -5,7 +5,8 @@
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
-    "build": "gulp build --production"
+    "build": "gulp build --production",
+    "deploy": "gulp deploy --production"
   },
   "author": "ZURB <foundation@zurb.com>",
   "license": "MIT",
@@ -28,6 +29,7 @@
     "gulp-cli": "^1.2.1",
     "gulp-concat": "^2.5.2",
     "gulp-extname": "^0.2.0",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^2.2.1",
     "gulp-load-plugins": "^1.1.0",
