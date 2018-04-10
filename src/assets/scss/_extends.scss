@@ -1,8 +1,10 @@
 .intro__content {
     height: 100%;
 }
+
 .intro__photo {
+    position: absolute;
     width: 50vw;
-    height: 33.333vw;
     max-width: 50vw;
+    height: 33.333vw;
 }

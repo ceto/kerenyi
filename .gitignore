@@ -1,5 +1,6 @@
 .DS_Store
 .publish
+.vscode
 node_modules
 npm-debug.log
 bower_components
