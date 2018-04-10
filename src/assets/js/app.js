@@ -1,5 +1,3 @@
-/*jshint esversion: 6 */
-
 import $ from 'jquery';
 import whatInput from 'what-input';
 
